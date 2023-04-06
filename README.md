@@ -1,6 +1,6 @@
 # auto-green
 源码参考：
-[![Build Status](https://github.com/justjavac/auto-green/workflows/ci/badge.svg?branch=master)](https://github.com/justjavac/auto-green/actions)
+[![Build Status](https://github.com/justjavac/auto-green)
 
 自动保持 GitHub 提交状态常绿。
 
